@@ -1,7 +1,5 @@
 # Projeto React Custom Modal
 
-![Project preview](./src/assets/preview.png)
-
 This project is a easy way to format prices with intl
 
 ## Technologies Used
