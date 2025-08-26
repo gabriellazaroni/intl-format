@@ -32,7 +32,7 @@ export default function App() {
           onChange={(e) => setPrice(e.target.value)}
           placeholder="Enter the price here"
         />
-        <Button onClick={format}>Formatar</Button>
+        <Button onClick={format}>Format</Button>
       </InputAndButtonContainer>
       <PriceContainer>
         <FormatedPrice>Formatted price:</FormatedPrice>
