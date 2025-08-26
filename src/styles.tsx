@@ -47,6 +47,8 @@ export const PriceContainer = styled.div`
   display: flex;
   align-items: center;
   gap: 5px;
+  width: 100%;
+  justify-content: center;
 `
 
 export const FormatedPrice = styled.p`
